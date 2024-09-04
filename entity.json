@@ -1,0 +1,23 @@
+{
+  "$id": "entity_template_1",
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "entityType": "location",
+  "content": {
+    "name": "string",
+    "description": "string",
+    "address": "string",
+    "city": "string",
+    "state": "string",
+    "zip": "string",
+    "country": "string",
+    "latitude": "number",
+    "longitude": "number",
+    "phone": "string",
+    "email": "string",
+    "website": "string",
+    "image": "string",
+    "tags": ["string"],
+    "createdAt": "string",
+    "updatedAt": "string"
+  }
+}

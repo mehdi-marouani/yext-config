@@ -3,17 +3,17 @@
   "$schema": "https://schema.yext.com/config/km/entity/v1",
   "entityType": "location",
   "content": {
-    "id":"string",
-     "name": "string",
-"address": {
-"city": "string",
-"countryCode": "string",
-"extraDescription": "string",
-"line1": "string",
-"line2": "string",
-"postalCode": "string",
-"region": "string",
-"sublocality": "string"
-},
+    "id": "string",
+    "name": "string",
+    "address": {
+      "city": "string",
+      "countryCode": "string",
+      "extraDescription": "string",
+      "line1": "string",
+      "line2": "string",
+      "postalCode": "string",
+      "region": "string",
+      "sublocality": "string"
+    }
   }
 }

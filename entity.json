@@ -4,10 +4,16 @@
   "entityType": "location",
   "content": {
     "id":"string",
-      "uid":"string",
-      "name":"string",
-      "address":"string",
-      "mainPhone":"string",
-      "description":"string"
+     "name": "string",
+"address": {
+"city": "string",
+"countryCode": "string",
+"extraDescription": "string",
+"line1": "string",
+"line2": "string",
+"postalCode": "string",
+"region": "string",
+"sublocality": "string"
+},
   }
 }
